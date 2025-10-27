@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What does HTML stand for?",
+        "options": [
+            "Hyper Trainer Marking Language",
+            "Hyper Text Marketing Language",
+            "Hyper Text Markup Language",
+            "Hyperlink and Text Markup Language"
+        ],
+        "answer": "Hyper Text Markup Language"
+    },
+    {
+        "question": "Which CSS property is used to change the text color of an element?",
+        "options": [
+            "font-color",
+            "text-color",
+            "color",
+            "font-style"
+        ],
+        "answer": "color"
+    },
+    {
+        "question": "What is the correct syntax for referring to an external script called 'app.js'?",
+        "options": [
+            "<script href='app.js'>",
+            "<script name='app.js'>",
+            "<script src='app.js'>",
+            "<script file='app.js'>"
+        ],
+        "answer": "<script src='app.js'>"
+    },
+    {
+        "question": "Which company developed JavaScript?",
+        "options": [
+            "Microsoft",
+            "Netscape",
+            "Google",
+            "Sun Microsystems"
+        ],
+        "answer": "Netscape"
+    },
+    {
+        "question": "What does the 'npm' command stand for in Node.js?",
+        "options": [
+            "Node Package Manager",
+            "New Project Manager",
+            "Node Project Module",
+            "Node Packet Manager"
+        ],
+        "answer": "Node Package Manager"
+    }
+]
